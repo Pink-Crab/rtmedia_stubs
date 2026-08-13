@@ -14,5 +14,5 @@ version the stubs were generated from.
 ## Installation
 
 ```
-composer require --dev pinkcrab/rtmedia_stubs:4.7.10
+composer require --dev pinkcrab/rtmedia_stubs:4.7.9
 ```
