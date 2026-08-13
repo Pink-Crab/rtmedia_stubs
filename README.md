@@ -6,12 +6,13 @@ rtMedia for WordPress, BuddyPress and bbPress stubs for static analysis (PHPStan
 Includes private and protected members. Each git tag matches the plugin
 version the stubs were generated from.
 
+## Source
+
+- Original plugin: <https://github.com/rtCamp/rtMedia>
+- Plugin homepage: <https://rtmedia.io/?utm_source=dashboard&utm_medium=plugin&utm_campaign=buddypress-media>
+
 ## Installation
 
 ```
-composer require --dev pinkcrab/rtmedia_stubs:4.7.11
+composer require --dev pinkcrab/rtmedia_stubs:4.7.10
 ```
-
-## Regenerating
-
-Place the plugin source in `source/rtMedia/`, then run `./generate.sh`.
