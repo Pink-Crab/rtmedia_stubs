@@ -1,0 +1,26 @@
+{
+    "name": "pinkcrab/rtmedia_stubs",
+    "description": "rtMedia for WordPress, BuddyPress and bbPress stubs for static analysis.",
+    "keywords": [
+        "rtMedia",
+        "wordpress",
+        "static analysis",
+        "phpstan"
+    ],
+    "homepage": "https://github.com/Pink-Crab/rtmedia_stubs",
+    "support": {
+        "source": "https://github.com/Pink-Crab/rtmedia_stubs",
+        "issues": "https://rtmedia.io/?utm_source=dashboard&utm_medium=plugin&utm_campaign=buddypress-media"
+    },
+    "require": {
+        "php-stubs/wordpress-stubs": "^4.1 || ^5.0 || ^6.0"
+    },
+    "require-dev": {
+        "php-stubs/generator": "^0.8"
+    },
+    "suggest": {
+        "szepeviktor/phpstan-wordpress": "WordPress extensions for PHPStan"
+    },
+    "minimum-stability": "stable",
+    "license": "GPL-2.0-or-later"
+}
